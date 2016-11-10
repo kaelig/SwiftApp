@@ -498,7 +498,7 @@
 			baseConfigurationReference = F8A20CFA95BC7DD296B691BB /* Pods-SwiftAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = SwiftAppTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.awesome.--PROJECT-NAME--Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -511,7 +511,7 @@
 			baseConfigurationReference = AA28D0A5FAA722738FFF1B65 /* Pods-SwiftAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = SwiftAppTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.awesome.--PROJECT-NAME--Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
