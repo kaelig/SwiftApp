@@ -8,7 +8,10 @@ machine:
     IOS_FRAMEWORK_SCHEME: "SwiftApp"
     IOS_SDK: iphonesimulator10.0
     EXAMPLE_SCHEME: "iOS Example"
-    DESTINATION: "iPhone 7 (10.0) [2D96E690-BFB5-44D5-8B22-31D9C57EDADF] (Simulator)"     SCHEME="$IOS_FRAMEWORK_SCHEME"     SDK="$IOS_SDK"     POD_LINT="NO"
+    DESTINATION: "iPhone 7 (10.0) [2D96E690-BFB5-44D5-8B22-31D9C57EDADF] (Simulator)"
+    SCHEME: "$IOS_FRAMEWORK_SCHEME"
+    SDK: "$IOS_SDK"
+    POD_LINT: "NO"
 test:
   override:
     - set -o pipefail
