@@ -1,23 +1,6 @@
-# WARNING
-
-Thank you for using SwiftApp. Before you release your awesome project to the world, complete the following steps.
-
-THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE BABY!
-
- - [ ] Open the project in Xcode and add features to SwiftApp
- - [ ] Make sure you are using Swift 3 ("Convert to latest Swift syntax")
- - [ ] Fix all build errors and warnings, add tests (yes really)
- - [ ] Add a screenshot or AT LEAST some picture, and fill in this readme
- - [ ] Add all details to your [Podspec](SwiftApp.podspec)
- - [ ] Delete all this crap up here
- - [ ] Make one release (full steps are in [CONTRIBUTING.md] in case you forget)
-
-THEN YOU'RE DONE, GO STAR [swift3-module-template](https://github.com/fulldecent/swift3-module-template) FOR UPDATES.
-
-----
-
 # SwiftApp
 
+[![CircleCI](https://circleci.com/gh/kaelig/SwiftApp.svg?style=svg)](https://circleci.com/gh/kaelig/SwiftApp)
 [![CI Status](http://img.shields.io/travis/kaelig/SwiftApp.svg?style=flat)](https://travis-ci.org/kaelig/SwiftApp)
 [![Version](https://img.shields.io/cocoapods/v/SwiftApp.svg?style=flat)](https://cocoapods.org/pods/SwiftApp)
 [![License](https://img.shields.io/cocoapods/l/SwiftApp.svg?style=flat)](https://cocoapods.org/pods/SwiftApp)
